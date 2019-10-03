@@ -1,0 +1,11 @@
+C:\source\codeworks\csharp\bookfair\obj\Debug\netcoreapp3.0\bookfair.csprojAssemblyReference.cache
+C:\source\codeworks\csharp\bookfair\obj\Debug\netcoreapp3.0\bookfair.AssemblyInfoInputs.cache
+C:\source\codeworks\csharp\bookfair\obj\Debug\netcoreapp3.0\bookfair.AssemblyInfo.cs
+C:\source\codeworks\csharp\bookfair\bin\Debug\netcoreapp3.0\bookfair.exe
+C:\source\codeworks\csharp\bookfair\bin\Debug\netcoreapp3.0\bookfair.deps.json
+C:\source\codeworks\csharp\bookfair\bin\Debug\netcoreapp3.0\bookfair.runtimeconfig.json
+C:\source\codeworks\csharp\bookfair\bin\Debug\netcoreapp3.0\bookfair.runtimeconfig.dev.json
+C:\source\codeworks\csharp\bookfair\bin\Debug\netcoreapp3.0\bookfair.dll
+C:\source\codeworks\csharp\bookfair\bin\Debug\netcoreapp3.0\bookfair.pdb
+C:\source\codeworks\csharp\bookfair\obj\Debug\netcoreapp3.0\bookfair.dll
+C:\source\codeworks\csharp\bookfair\obj\Debug\netcoreapp3.0\bookfair.pdb
