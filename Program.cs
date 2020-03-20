@@ -21,8 +21,14 @@ namespace bookfair
       lib.AddBook(CitH);
       lib.AddBook(Swtor);
       lib.AddBook(BCW);
+      Console.WriteLine("");
 
       lib.PrintBooks();
+      Console.WriteLine("");
+
+      Console.WriteLine("Select a book number to checkout (Q)uit, or (R)eturn a book.");
+      string resp = Console.ReadLine();
+      lib.Checkout(resp);
 
       // Books.AddRange(new Book[] { LotR, CitH, Swtor, BCW
       //   });
